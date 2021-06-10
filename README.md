@@ -1,6 +1,6 @@
 # CL2_v2
 
-#Project dùng để phân loại văn bản cho lĩnh vực Ô tô - xe máy
+ * Project dùng để phân loại văn bản cho lĩnh vực Ô tô - xe máy
 
 Hướng dẫn và các file yêu cầu :
 
@@ -24,4 +24,4 @@ B1 : tiền xử lý
   classify.process(path_in,path_out)
 B2 : predict
   y_pred = classify.predictCsv(path_out)
-  + Xtest_path : path file csv# CL2
+  + Xtest_path : path file csv
