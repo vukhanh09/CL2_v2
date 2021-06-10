@@ -1,8 +1,8 @@
 # CL2_v2
 
-Project dùng để phân loại văn bản cho lĩnh vực Ô tô - xe máy
+#Project dùng để phân loại văn bản cho lĩnh vực Ô tô - xe máy
 
-Một số yêu cầu:
+Hướng dẫn và các file yêu cầu :
 
 Link folder train word2vec : https://drive.google.com/drive/folders/1K8KSXUcbpO93BCj98-l9_knCsHVgIX0w?usp=sharing
 
