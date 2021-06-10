@@ -1,12 +1,12 @@
 # CL2_v2
 
- * Project dùng để phân loại văn bản cho lĩnh vực Ô tô - xe máy
+# Project dùng để phân loại văn bản cho lĩnh vực Ô tô - xe máy
 
-Hướng dẫn và các file yêu cầu :
 
+# File yêu cầu 
 Link folder train word2vec : https://drive.google.com/drive/folders/1K8KSXUcbpO93BCj98-l9_knCsHVgIX0w?usp=sharing
 
-** README **
+# Hướng dẫn sử dụng
 - Tạo đối tượng : classify = Classfify(tfidfTf_path,key_path,vi_path)
   + tfidfTf_path : path của file train
   + key_path : path của tập từ điển
